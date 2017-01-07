@@ -1,15 +1,19 @@
 
 system:
 	@echo " ..:: Createting project dirs ::.."
+	@echo "apps"
 	@echo "assets"
 	@echo "backups/dumps"
 	@echo "backups/logs"
 	@echo "data"
+	@echo "etc"
 	@echo "var/log"
+	@mkdir -p apps
 	@mkdir -p assets
 	@mkdir -p backups/dumps
 	@mkdir -p backups/logs
 	@mkdir -p data
+	@mkdir -p etc
 	@mkdir -p var/log
 
 	@echo

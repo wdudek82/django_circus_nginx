@@ -1,4 +1,4 @@
-# Project installation
+# Project Installation & Deployment
 
 1. git clone [project]
 
