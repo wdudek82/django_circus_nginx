@@ -1,0 +1,17 @@
+*.py[co]
+*.sqlite3
+.htpasswd
+.idea
+*.swp
+project.ini
+
+assets/
+backend/media/
+backend/static/
+backend/conf/development.py
+backend/conf/production.py
+backups/
+etc/circus.ini
+etc/nginx.conf
+var/
+venv/

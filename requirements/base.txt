@@ -1,0 +1,3 @@
+-r core.txt
+-r django.txt
+-r project.txt
