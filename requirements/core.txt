@@ -1,6 +1,6 @@
-pip-tools==1.8.0
 anyjson==0.3.3
 arrow==0.10.0
+autoenv==1.0.0
 backports-abc==0.5
 binaryornot==0.4.0
 certifi==2016.9.26
@@ -25,6 +25,7 @@ meinheld==0.6.1
 mypy-lang==0.4.6
 pexpect==4.2.1
 pickleshare==0.7.4
+pip-tools==1.8.0
 poyo==0.4.0
 prompt-toolkit==1.0.9
 psutil==5.0.1

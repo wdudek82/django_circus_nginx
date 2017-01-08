@@ -11,6 +11,7 @@
 7. change backend.wsgi backend.settings to backend.development or backend.production
 
 8. make (creates project folder, creates virtualenv, delete obsolete packages)
+9. install autoenv & add it to bashrc (https://github.com/kennethreitz/autoenv)
 
 9. create database and db user
 10. migrate apps
